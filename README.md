@@ -26,7 +26,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on HTML, JavaScript and css  
   
 
-- 🌱 I’m currently B.Tech  second year student  
+- 🌱 I’m currently B.Tech graduate  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
